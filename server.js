@@ -15,7 +15,7 @@ var imap = new Imap({
   user: 'aktiefollower@gmail.com',
   password: 'OnePassword',
   host: 'imap.gmail.com',
-  port: 993,
+  port: 8081,
   tls: true
 });
 
